@@ -1,6 +1,6 @@
 **/*.swp
 .DS_Store
-dist/
+# dist/
 lib/
 node_modules/
 npm-debug.log
